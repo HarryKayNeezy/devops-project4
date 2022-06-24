@@ -11,6 +11,7 @@ dockerpath=h4rryk4y/devops_microservice_ml_kubernetes
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker login
 docker tag devops_microservice_ml_kubernetes $dockerpath
 
 # Step 3:

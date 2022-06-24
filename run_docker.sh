@@ -12,5 +12,6 @@ docker image ls
 
 # Step 3: 
 # Run flask app
+docker login
 docker run -d -p 8000:80 devops_microservice_ml_kubernetes
 # docker run -i -t devops_microservice_ml_kubernetes:latest /bin/bash
