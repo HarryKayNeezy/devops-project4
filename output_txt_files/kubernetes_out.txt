@@ -12,7 +12,7 @@ Port: 8000
 }
 
 # full kubernetes logs 
-(.devops) harrykayablor@Harrys-MacBook-Air Operationalize-a-Machine-Learning-Microservice-API-master %  kubectl logs devops-ml-microservice-kubernetes
+(.devops) harrykayablor@Harrys-MacBook-Air project-ml-microservice-kubernetes %  kubectl logs devops-ml-microservice-kubernetes
  * Serving Flask app "app" (lazy loading)
  * Environment: production
    WARNING: Do not use the development server in a production environment.
