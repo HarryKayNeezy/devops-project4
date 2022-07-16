@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/paulowoicho/Operationalize-a-Machine-Learning-Microservice-API/tree/master.svg?style=svg)](https://circleci.com/gh/paulowoicho/Operationalize-a-Machine-Learning-Microservice-API/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/HarryKayNeezy/devops-project4/tree/dev.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/HarryKayNeezy/devops-project4/tree/dev)
 
 ## Overview
 
